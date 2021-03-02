@@ -1,7 +1,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mackrzywda?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/mkrzywda/MKKnowledgeGraph?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/mkrzywda/MKKnowledgeGraph?style=social)
-![GitHub](https://img.shields.io/github/license/mkrzywda/MKKnowledgeGraph?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/mkrzywda/GraphsAreAwsome?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mkrzywda/GraphsAreAwsome?style=social)
+![GitHub](https://img.shields.io/github/license/mkrzywda/GraphsAreAwsome?style=flat-square)
 
 # Graphs are Awesome!
 
