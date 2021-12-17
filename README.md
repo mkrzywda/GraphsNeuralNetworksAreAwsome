@@ -10,7 +10,7 @@ Hello!
 My name is Maciej Krzywda. I created this repository to share a set of links that I found valuable and inspiring. 
 I hope that you'll like it!
 
-So sum up **Graphs are Awsome** is a space in you will be can find articles/sample of code about **_Graphs_** in every area of IT from Databases via Graphs Aglortihms to Machine Learning.
+So sum up **Graphs are Awsome** is a space in you will be can find articles/sample of code about **_Graphs_** in Artificial intelligence (mostly Neural Networks)
 
 
 ## Table of Contents
