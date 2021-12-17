@@ -17,7 +17,7 @@ So sum up **Graphs are Awsome** is a space in you will be can find articles/samp
 1. [GNN Introduction](#gnn-introduction)
 2. [Graph Neural Networks Optimization](#graph-neural-networks-optimization)
 3. [Bayesan NN](#bayesan-nn)
-4. [Capsule NN)(#capsule-nn)
+4. [Capsule NN](#capsule-nn)
 5. [No Categorized](#no-categorized)
 
 ## GNN Introduction
